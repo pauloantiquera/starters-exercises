@@ -23,6 +23,6 @@ Any number divisible by three is replaced by the word fizz and any divisible by 
 
 Tip: Arithmetic Mean (Média Aritmética)
 
-## 3. Arithmetic Mean
+## 3. Arithmetic Mean (S O L V E D)
 
 Write a function that receives two numbers as parameters and returns the arithmetic mean for these two numbers.

@@ -12,3 +12,17 @@ else if (year is not divisible by 100) then (it is a leap year)
 else if (year is not divisible by 400) then (it is a common year)
 else (it is a leap year) 
 ```
+
+Tip: Switches (Interruptores)
+
+## 2. FizzBuzz problem
+
+Write a function that receives a number as a parameter. The function should return the words fizz, buzz or, the provided number as a string. 
+
+Any number divisible by three is replaced by the word fizz and any divisible by five by the word buzz. Numbers divisible by both become fizzbuzz.
+
+Tip: Arithmetic Mean (Média Aritmética)
+
+## 3. Arithmetic Mean
+
+Write a function that receives two numbers as parameters and returns the arithmetic mean for these two numbers.
